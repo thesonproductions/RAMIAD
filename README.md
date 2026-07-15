@@ -13,3 +13,6 @@ The project focuses on three key challenges:
 Experiments are conducted on MVTec 3D-AD, Real-IAD D³, and Eyecandies under both clean and compound-corruption scenarios.
 
 **Keywords:** Industrial Anomaly Detection, Multimodal Learning, RGB–3D Fusion, Sensor Reliability, Robust Perception, Defect Localization, Selective Prediction.
+
+# Dataset Benchmark
+MVTec 3D-AD; Eyecandies; Real-IAD D³ (Draft)
